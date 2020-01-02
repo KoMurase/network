@@ -1,4 +1,4 @@
 # network
 
 Pythonで学ぶネットワーク分析の写経
-Githubは  htpps://atarum.github.io/
+参考Githubは  htpps://atarum.github.io/
